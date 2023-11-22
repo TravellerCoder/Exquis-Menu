@@ -127,7 +127,7 @@ html{
 
 
 /* ***************** */
-/* SECCION S A B O R E S */
+/* SECCION CARTA */
 /* ***************** */
 #carta{
     padding: 50px 0;
@@ -139,7 +139,7 @@ html{
 }
 #carta .fila{
     display: flex;
-    max-width: 1100px;
+    max-width: 1500px;
     margin: auto;
 }
 #carta .fila .item img{
