@@ -135,7 +135,7 @@ html{
     margin: auto;
 }
 #carta .fila .item img{
-    max-width: 120px;
+    max-width: 80px;
     max-height: 80px;
 }
 #carta .fila .item{
